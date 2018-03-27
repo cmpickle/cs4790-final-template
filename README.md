@@ -15,7 +15,7 @@ the last month.
 
 #### Reward Formula
 
-3 points per $1.00 dollar
+3 points per $1.00 dollar spent, **not** including tax!
 
 Points | Credit (in-store)
 -------|------------------
@@ -23,6 +23,19 @@ Points | Credit (in-store)
 60 | $20.00
 90 | $30.00
 120| $40.00
+
+#### Coupon Percentages
+
+Number of Purchases | Discount
+--------------------|---------
+5  | 10%
+10 | 20%
+20 | 30%
+25 | 40%
+
+- Kiosk employees should **not** have privileges to modify customers' information.
+- Kiosk employees should be able to enter a *new* customers' information.
+- Kiosk employees should **not** be able to add inventory items.
 
 ### Grading
 
@@ -46,3 +59,4 @@ Order Web Service|10
 Payment Web Service|10
 Customer Web Service|10
 Seller Web Service|10
+Coupon Emails|15
