@@ -11,6 +11,19 @@ if they wish.  There should be a page for a customer see how many award points t
 able to create a discount or coupon email that can be sent to all customers who have bought a product within
 the last month.
 
+### Notes
+
+#### Reward Formula
+
+3 points per $1.00 dollar
+
+Points | Credit (in-store)
+-------|------------------
+30 | $10.00
+60 | $20.00
+90 | $30.00
+120| $40.00
+
 ### Grading
 
 Criteria | Ratings | Points
