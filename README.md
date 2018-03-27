@@ -13,16 +13,17 @@ the last month.
 
 ### Grading
 
-Criteria | Ratings || Points
+Criteria | Ratings | Points
 ---------|---------|--------
-Documentation|20 *full*|10 *partial*|20
-Unit-tests (70> code coverage)|40 *full*|20 *partial*|40
-Controllers (thin)|20 *full*|10 *partial*|20
-Models (business and data)|40 *full*|20 *partial*|40
-Views (functional)|20 *full*|10 *partial*|20
-MySQL|20 *full*|10 *partial*|20
-Dependency Injection|10 *full*|05 *partial*|10
-|**TOTAL**|||170
+Documentation|20 *full*, 10 *partial*|20
+Unit-tests (70> code coverage)|40 *full*, 20 *partial*|40
+Controllers (thin)|20 *full*, 10 *partial*|20
+Models (business and data)|40 *full*, 20 *partial*|40
+Views (functional)|20 *full*, 10 *partial*|20
+MySQL|20 *full*,10 *partial*|20
+Dependency Injection|10 *full*, 05 *partial*|10
+Functional|30 *full*, 15 *partial*|30
+**TOTAL**| = |200
 
 ### Extra Credit
 
